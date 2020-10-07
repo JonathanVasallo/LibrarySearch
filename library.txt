@@ -1,0 +1,14 @@
+13
+2, The Keto Cookbook, Chronicle Books, 304, English, Keto Cooking
+3, The Hitchhiker's Guide to the Galaxy, Del Rey, 224, Douglas Adams, Fantasy, Y
+2, The Asian Grille, Chronicle Books, 168, English, Asian Cooking
+1, The Oxford-English Dictionary, Clarendon Press, 22000, English, 2
+4, Y: The Last Man, Vertigo, 128, Brian K. Vaughan, Dystopian, Pia Guerra
+4, Watchmen, DC Comics, 448, Alan Moore, Fantasy, Dave Gibbons
+3, Anathem, Harper, 1008, Neal Stephenson, Fantasy, N
+3, The Hero of Ages, Tor Fantasy, 760, Brandon Sanderson, Fantasy, Y
+2, Mastering the Art of French Cooking, Alfred A. Knopf, 684, French, French Cooking
+3, The Killer Angels, Ballantine Books, 355, Michael Shaara, Historical, Y
+1, The Merriam-Webster Dictionary, Peabody, 23000, English, 4
+4, Sandman, DC Comics, 603, Neil Gaiman, Fantasy, Neil Gaiman
+3, Diamond Age, Harper, 498, Neal Stephenson, Fantasy, N
